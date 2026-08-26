@@ -8,11 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of this CV is available [here](https://drive.google.com/file/d/1VyxYPT5Dfaf36eCrZTzalWESwK8uM7Au/view?usp=sharing).
+A PDF version of this CV is available [here](https://drive.google.com/file/d/1M6BwOHEWSNTXfaEE9tGAckzSEWVSeUFp/view?usp=sharing)).
 
 Education
 ======
-* **Ph.D. in Physics**, Ahmedabad University, Ahmedabad, India, August 2021 – Present
+* **PhD in Physics**, Ahmedabad University, Ahmedabad, India, August 2021 – Present
   * CGPA: 3.60/4.00
   * Expected thesis submission: August 2026; expected defence: October 2026
 * **M.Sc. in Physics**, Institute of Advanced Research (IAR), Gandhinagar, India, June 2020
@@ -64,7 +64,7 @@ Fellowships and Grants
 Academic Achievements
 ======
 * Best Poster Presentation Award, 3rd International Conference on Quantum Foundations, Technologies and Applications (QFTA 2025), IISER Mohali, India
-* Qualified the TIFR Graduate School (TIFR GS) entrance exam for Ph.D. in Physics, 2021, along with several national physics entrance tests:
+* Qualified the TIFR Graduate School (TIFR GS) entrance exam for PhD in Physics, 2021, along with several national physics entrance tests:
 
   | Entrance Test | Year | All India Rank (AIR) |
   |:---|:---:|:---:|
@@ -93,7 +93,7 @@ Teaching Experience
 
 Skills
 ======
-* **Programming and Scientific Computing:** Python, Qiskit, MATLAB
+* **Programming and Scientific Computing:** Python, Qiskit
 * **Typesetting and Documentation:** LaTeX for scientific manuscripts, reports, presentations, and thesis preparation
 * **Languages:** English (fluent), Hindi (fluent), Gujarati (fluent), Sindhi (native)
 
@@ -107,4 +107,4 @@ References
 ======
 * **Dr. Alok Shukla**, Assistant Professor, Mathematical and Physical Sciences Division, Ahmedabad University, India
 * **Dr. Prakash Vedula**, Professor, School of Aerospace and Mechanical Engineering, University of Oklahoma, USA
-* **Dr. Gaurav Goswami**, Associate Professor, Mathematical and Physical Sciences Division, Ahmedabad University, India
+* **Dr. Amit Reza**, Machine Learning Scientist, Space Research Institute (IWF), Austrian Academy of Sciences, Graz, Austria.
